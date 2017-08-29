@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "C:\\Users\\kisha\\.android\\build-cache\\56b755776236fdd9c4bb3e5229717c66a258b1fe\\output\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_addbook.xml",
+        "source": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\src\\main\\res\\layout\\admin_addbook.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_adminlogin.xml",
+        "source": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\src\\main\\res\\layout\\activity_adminlogin.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reader_bookcheckout.xml",
+        "source": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\src\\main\\res\\layout\\reader_bookcheckout.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\kisha\\.android\\build-cache\\56b755776236fdd9c4bb3e5229717c66a258b1fe\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reader_searchbook.xml",
+        "source": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\src\\main\\res\\layout\\reader_searchbook.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_branchinfo.xml",
+        "source": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\src\\main\\res\\layout\\admin_branchinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_book.xml",
+        "source": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\src\\main\\res\\layout\\item_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_freqborrowers.xml",
+        "source": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\src\\main\\res\\layout\\admin_freqborrowers.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\kisha\\.android\\build-cache\\56b755776236fdd9c4bb3e5229717c66a258b1fe\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reader_menu.xml",
+        "source": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\src\\main\\res\\layout\\reader_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_searchbook.xml",
+        "source": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\src\\main\\res\\layout\\admin_searchbook.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\kisha\\.android\\build-cache\\56b755776236fdd9c4bb3e5229717c66a258b1fe\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\kisha\\.android\\build-cache\\56b755776236fdd9c4bb3e5229717c66a258b1fe\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reader_booklist.xml",
+        "source": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\src\\main\\res\\layout\\reader_booklist.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reader_searchbookbyid.xml",
+        "source": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\src\\main\\res\\layout\\reader_searchbookbyid.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\kisha\\.android\\build-cache\\56b755776236fdd9c4bb3e5229717c66a258b1fe\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\kisha\\.android\\build-cache\\56b755776236fdd9c4bb3e5229717c66a258b1fe\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_readerlogin.xml",
+        "source": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\src\\main\\res\\layout\\activity_readerlogin.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "C:\\Users\\kisha\\.android\\build-cache\\56b755776236fdd9c4bb3e5229717c66a258b1fe\\output\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\kisha\\.android\\build-cache\\56b755776236fdd9c4bb3e5229717c66a258b1fe\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reader_searchbytitle.xml",
+        "source": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\src\\main\\res\\layout\\reader_searchbytitle.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reader_computefine.xml",
+        "source": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\src\\main\\res\\layout\\reader_computefine.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reader_bookreturn.xml",
+        "source": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\src\\main\\res\\layout\\reader_bookreturn.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "C:\\Users\\kisha\\.android\\build-cache\\56b755776236fdd9c4bb3e5229717c66a258b1fe\\output\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\kisha\\.android\\build-cache\\56b755776236fdd9c4bb3e5229717c66a258b1fe\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reader_resbooklist.xml",
+        "source": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\src\\main\\res\\layout\\reader_resbooklist.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\kisha\\.android\\build-cache\\56b755776236fdd9c4bb3e5229717c66a258b1fe\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\kisha\\.android\\build-cache\\56b755776236fdd9c4bb3e5229717c66a258b1fe\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\kisha\\.android\\build-cache\\56b755776236fdd9c4bb3e5229717c66a258b1fe\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reader_bookreserve.xml",
+        "source": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\src\\main\\res\\layout\\reader_bookreserve.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_adduser.xml",
+        "source": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\src\\main\\res\\layout\\admin_adduser.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\kisha\\.android\\build-cache\\56b755776236fdd9c4bb3e5229717c66a258b1fe\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\kisha\\.android\\build-cache\\56b755776236fdd9c4bb3e5229717c66a258b1fe\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "C:\\Users\\kisha\\.android\\build-cache\\56b755776236fdd9c4bb3e5229717c66a258b1fe\\output\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_branch.xml",
+        "source": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\src\\main\\res\\layout\\item_branch.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\kisha\\.android\\build-cache\\56b755776236fdd9c4bb3e5229717c66a258b1fe\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_fineavg.xml",
+        "source": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\src\\main\\res\\layout\\admin_fineavg.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reader_searchbypublisher.xml",
+        "source": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\src\\main\\res\\layout\\reader_searchbypublisher.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "C:\\Users\\kisha\\.android\\build-cache\\56b755776236fdd9c4bb3e5229717c66a258b1fe\\output\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_menu.xml",
+        "source": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\src\\main\\res\\layout\\admin_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\kisha\\.android\\build-cache\\56b755776236fdd9c4bb3e5229717c66a258b1fe\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "C:\\Users\\kisha\\.android\\build-cache\\56b755776236fdd9c4bb3e5229717c66a258b1fe\\output\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\kisha\\.android\\build-cache\\56b755776236fdd9c4bb3e5229717c66a258b1fe\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "C:\\Users\\kisha\\.android\\build-cache\\56b755776236fdd9c4bb3e5229717c66a258b1fe\\output\\res\\layout\\abc_action_bar_tabbar.xml"
+    }
+]

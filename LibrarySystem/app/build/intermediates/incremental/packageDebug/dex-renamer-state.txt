@@ -1,0 +1,7 @@
+#Thu May 11 11:57:52 EDT 2017
+base.0=C\:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6f628ccc8341351a0c34f85cc95e8400be251588
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e7b91acabb2d6008af8bf35ea88540c10b0c9fca\\classes.dex
+base.1=C\:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e7b91acabb2d6008af8bf35ea88540c10b0c9fca
+file.0=C\:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6f628ccc8341351a0c34f85cc95e8400be251588\\classes.dex

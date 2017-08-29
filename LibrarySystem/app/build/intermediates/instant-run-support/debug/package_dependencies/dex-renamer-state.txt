@@ -1,0 +1,16 @@
+#Thu May 11 11:57:51 EDT 2017
+renamed.4=classes3.dex
+renamed.3=classes2.dex
+renamed.2=classes.dex
+renamed.1=classes4.dex
+base.4=C\:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-20.0.0_c5e11549236ed52171b69b307b1403a9853bc98d
+renamed.0=classes5.dex
+base.3=C\:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_61f0d199d6a96f879845140b412863871a83a1ec
+base.2=C\:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5a8ca44b61f909335b63536cc35583829492162c
+base.1=C\:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\joda-time-2.9.4_b7671277d68e74a614ab6dfb0a744a7bcf5332dc
+base.0=C\:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-20.0.0_cfde7be143694ab0c9e8d3405f79d590aadf58c2
+file.4=C\:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-20.0.0_c5e11549236ed52171b69b307b1403a9853bc98d\\classes.dex
+file.3=C\:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_61f0d199d6a96f879845140b412863871a83a1ec\\classes.dex
+file.2=C\:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5a8ca44b61f909335b63536cc35583829492162c\\classes.dex
+file.1=C\:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\joda-time-2.9.4_b7671277d68e74a614ab6dfb0a744a7bcf5332dc\\classes.dex
+file.0=C\:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-20.0.0_cfde7be143694ab0c9e8d3405f79d590aadf58c2\\classes.dex

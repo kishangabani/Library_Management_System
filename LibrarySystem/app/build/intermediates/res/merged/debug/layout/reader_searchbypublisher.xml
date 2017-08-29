@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/edtsbBypubed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:hint="enter Publisher">
+
+
+    </EditText>
+
+    <Button
+        android:id="@+id/btnsbBYpubsubmit"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#d9dbff"
+        android:text="Submit" />
+
+
+    <TextView
+
+        android:id="@+id/tvSbbypub"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#d9dbff"
+        android:textSize="20dp"
+        android:hint="Title here.."/>
+</LinearLayout>

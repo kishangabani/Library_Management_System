@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.nyit.librarysystem"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/book"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" android:permission="android.permission.ACCESS_FINE_LOCATION" android:allowTaskReparenting="true" android:persistent="false">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity android:name="ReaderLogin"></activity>
+        <activity android:name="AdminLogin"></activity>
+        <activity android:name="AdminMenu"></activity>
+        <activity android:name=".admin.AdminAddBook"></activity>
+        <activity android:name=".admin.AdminAddUser"></activity>
+        <activity android:name=".admin.AdminSearchBook"></activity>
+        <activity android:name=".admin.AdminBranchInfo"></activity>
+        <activity android:name=".admin.AdminFreqBorrowers"></activity>
+        <activity android:name=".admin.AdminFreqBooks"></activity>
+        <activity android:name=".admin.AdminFineAverage"></activity>
+        <activity android:name=".reader.ReaderMenu"></activity>
+        <activity android:name=".reader.ReaderBookReturn"></activity>
+        <activity android:name=".reader.ReaderSearchBook"></activity>
+        <activity android:name=".reader.ReaderBookandBookId" ></activity>
+        <activity android:name=".reader.ReaderBookResList" ></activity>
+        <activity android:name=".reader.ReaderSearchbyBookId" ></activity>
+        <activity android:name=".reader.ReaderSearchBookByPublisher" ></activity>
+        <activity android:name=".reader.ReaderSearchBookByTitle" ></activity>
+        <activity android:name=".reader.ReaderBookReserve" ></activity>
+        <activity android:name=".reader.ReaderBookCheckout" ></activity>
+        <activity android:name=".reader.ReaderComputeFine" ></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\kisha\\Downloads\\LibrarySystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w720dp-v13\\values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "C:\\Users\\kisha\\.android\\build-cache\\56b755776236fdd9c4bb3e5229717c66a258b1fe\\output\\res\\values-w720dp\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 76,
+                        "endOffset": 128
+                    }
+                }
+            }
+        ]
+    }
+]
